@@ -65,44 +65,29 @@ The Power BI dashboard highlights:
 
 How to Run This Project
 Prerequisites
+  Python 3.x
+  PostgreSQL & pgAdmin 4
+  Power BI Desktop
 
-Python 3.x
-
-PostgreSQL & pgAdmin 4
-
-Power BI Desktop
-
-Steps
-
+##Steps
 Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/Chathuri-J/Customer-Behavior-Analysis
 
 
 Open the Jupyter Notebook and run all cells to:
-
-Load data
-
-Perform EDA and cleaning
-
-Push data to PostgreSQL
+  Load data
+  Perform EDA and cleaning
+  Push data to PostgreSQL
 
 Open pgAdmin and verify the database tables.
-
 Run SQL queries (provided in the SQL folder or notebook).
-
 Open the Power BI file (.pbix) and refresh data.
 
-Skills Demonstrated
-
+##Skills Demonstrated
 Data Cleaning & Transformation
-
 Exploratory Data Analysis (EDA)
-
 SQL Querying & Database Handling
-
 Data Visualization & Dashboard Design
-
 End-to-End Data Analytics Workflow
 
 Author
